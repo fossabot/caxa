@@ -4,6 +4,7 @@
 <a href="https://github.com/leafac/caxa"><img src="https://img.shields.io/badge/Source---" alt="Source"></a>
 <a href="https://www.npmjs.com/package/caxa"><img alt="Package" src="https://badge.fury.io/js/caxa.svg"></a>
 <a href="https://github.com/leafac/caxa/actions"><img src="https://github.com/leafac/caxa/workflows/.github/workflows/main.yml/badge.svg" alt="Continuous Integration"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FLittly%2Fcaxa?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FLittly%2Fcaxa.svg?type=shield"/></a>
 </p>
 
 # [Watch the Video Demonstration](https://youtu.be/JRwxx2jc2zU)
@@ -505,3 +506,7 @@ caxa is a misspelling of **caixa**, which is Portuguese for **box**. I find it a
 ### Conclusion
 
 As you see from this long README, despite being simple in spirit, caxa is the result of a lot of research and hard work. Simplicity is **hard**. So [support my work](#support).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLittly%2Fcaxa.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLittly%2Fcaxa?ref=badge_large)
